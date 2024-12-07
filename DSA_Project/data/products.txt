@@ -1,0 +1,1 @@
+{"1": ["Iphone", "iphone 16 pro max", "300000", 1], "2": ["Readme", "Readme note 10s", "30000", 2], "3": ["Samsung S21", "6/128,12mp camera", "76000", "2"], "4": ["Oppo A15", "Dual Camera, 4/64", "25000", 1], "5": ["Infinix hot 10", "dual + camera,4/64", "20000", 1], "6": ["Hawawai", "2/16,simple camera", 10000.0, 2]}

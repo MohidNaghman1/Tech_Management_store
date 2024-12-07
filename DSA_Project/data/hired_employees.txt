@@ -1,0 +1,1 @@
+{"Reshail": ["Bachelors", "Data science"], "Mohid": ["Bachelors", "Python Devolper"], "Ali": ["Inter", "Ml engeneer"], "Zaffar": ["Inter", "EDA"]}
